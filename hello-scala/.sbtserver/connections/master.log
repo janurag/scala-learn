@@ -1,0 +1,7 @@
+New log file opened at Mon Sep 21 17:14:12 IST 2015 by 7140@localhost.localdomain
+Taking next connection to: 20712
+New client attempting to connect on port: 18132-20712
+  Address = /127.0.0.1:20712
+This client on port 18132 has uuid daae496e-2e1d-4684-948c-a54009667572 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-daae496e-2e1d-4684-948c-a54009667572
+Taking next connection to: 20712
